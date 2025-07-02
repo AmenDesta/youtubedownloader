@@ -1,15 +1,15 @@
 # YouTube Playlist Downloader
 
-This is a Python GUI application that allows users to download entire YouTube playlists using `pytubefix`. It features a clean interface built with `tkinter`, real-time progress tracking, auto-play functionality, and playback navigation.
+This Python application provides a graphical interface for downloading full YouTube playlists using pytubefix and tkinter. It's built to simplify batch video downloads while supporting autoplay and responsive interaction.
 
-## Features
+## Features / Phase 1
 
-- Download all videos from a public YouTube playlist
-- Select a local folder to save downloaded files
-- Real-time download speed and ETA display
-- Auto-play the first downloaded video
-- "Play Next" button to step through downloaded videos
-- Cancel download at any time
+- Input any YouTube playlist URL
+- Select a local folder for downloads
+- Real-time progress tracking via progress bar
+- Play the first downloaded video automatically
+- Cancel functionality mid-download
+- Clean and intuitive interface
 
 ## Installation
 
