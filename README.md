@@ -23,7 +23,7 @@ Clone or download this repository
 Run the script using:python youtube_playlist_downloader.py
 Paste a valid YouTube playlist URL, select a folder, and click "Download Playlist"
 
-Notes
+Notes:
 Only downloads progressive streams (video and audio combined)
 
 Videos requiring login or restricted access may not download
