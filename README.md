@@ -30,10 +30,14 @@ Videos requiring login or restricted access may not download
 
 Developed for class project
 
-Requirements
+## Requirements
 Python 3.7 or later
-
 pytubefix
 
-Authors
+## Tests
+To run tests:
+```bash
+python -m unittest discover -s tests
+```
+## Authors
 CMSC-495-Group 3
